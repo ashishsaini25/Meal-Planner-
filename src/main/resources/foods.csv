@@ -1,0 +1,55 @@
+name,calories,allergens,protein_g,fiber_g,tags,meal_type
+Oatmeal with Banana,280,none,8,4,"vegetarian,high_fiber",breakfast
+Tofu Scramble,300,soy,22,5,"vegan,high_protein",breakfast
+Avocado Toast,320,gluten,10,7,"vegetarian,high_fiber",breakfast
+Scrambled Eggs,200,eggs,12,1,"non_vegetarian,high_protein",breakfast
+Bacon and Eggs,350,"eggs;pork",25,0,"non_vegetarian,high_protein",breakfast
+Protein Pancakes,300,milk,20,3,"vegetarian,high_protein",breakfast
+Spinach Omelette,250,"eggs;milk",18,2,"vegetarian,high_protein",breakfast
+Chia Pudding,200,milk,10,6,"vegetarian,high_fiber",breakfast
+Tofu Scramble with Spinach & Peppers,220,soy,20,5,"vegan,high_protein,high_fiber",breakfast
+Chia Seed Pudding with Almond Milk,250,tree_nuts,12,10,"vegan,high_protein,high_fiber",breakfast
+Vegan Protein Smoothie (Pea Protein + Spinach),230,soy,22,4,"vegan,high_protein,high_fiber",breakfast
+Tempeh Bacon & Avocado,280,soy,18,6,"vegan,high_protein,high_fiber",breakfast
+Almond Flour Protein Pancakes,300,tree_nuts,20,6,"vegan,high_protein,high_fiber",breakfast
+Edamame & Spinach Salad,200,soy,18,8,"vegan,high_protein,high_fiber",breakfast
+Hemp Seed Yogurt Bowl,210,tree_nuts,15,5,"vegan,high_protein,high_fiber",breakfast
+Almond Butter & Flaxseed on Low-Carb Bread,250,tree_nuts,12,5,"vegan,high_protein,high_fiber",breakfast
+Vegan Scrambled Tempeh & Kale,240,soy,20,6,"vegan,high_protein,high_fiber",breakfast
+Coconut Flour Protein Muffins,200,tree_nuts,15,4,"vegan,high_protein,high_fiber",breakfast
+Vegan Quinoa Porridge with Berries,220,none,18,7,"vegan,high_protein,high_fiber",breakfast
+Pea Protein Pancakes with Almond Butter,280,tree_nuts,22,6,"vegan,high_protein,high_fiber",breakfast
+Flax & Hemp Seed Porridge,210,none,17,8,"vegan,high_protein,high_fiber",breakfast
+Vegan Breakfast Bowl ,250,"soy;tree_nuts",20,9,"vegan,high_protein,high_fiber",breakfast
+Avocado & Edamame Toast (Low-Carb Bread),230,"soy;tree_nuts",18,7,"vegan,high_protein,high_fiber",breakfast
+Lentil Curry,400,none,18,10,"vegetarian,high_fiber",lunch
+Grilled Paneer Salad,350,milk,30,5,"vegetarian,high_protein",lunch
+Quinoa Buddha Bowl,420,none,15,12,"vegan,high_fiber",lunch
+Chicken Caesar Salad,450,"eggs;milk",35,4,"non_vegetarian,high_protein",lunch
+Turkey Sandwich,400,gluten,25,5,"non_vegetarian",lunch
+Avocado Salad,250,none,5,8,"vegan,high_fiber",lunch
+Salmon Salad,400,fish,35,4,"non_vegetarian,high_protein",lunch
+Tuna Sandwich,350,"fish;gluten",30,3,"non_vegetarian,high_protein",lunch
+Vegetable Soup,150,none,5,4,"vegan,high_fiber",lunch
+Quinoa Salad,300,none,12,10,"vegan,high_fiber",lunch
+Veggie Stir Fry,300,soy,12,6,"vegan,high_fiber",dinner
+Chickpea Bowl,420,none,20,12,"vegan,high_fiber",dinner
+Vegetable Pasta,450,gluten,14,7,"vegetarian",dinner
+Stuffed Bell Peppers,380,none,16,9,"vegetarian,high_fiber",dinner
+Grilled Salmon,500,fish,40,2,"non_vegetarian,high_protein",dinner
+Chicken Curry,480,none,35,3,"non_vegetarian,high_protein",dinner
+Beef Stir Fry,520,none,42,4,"non_vegetarian,high_protein",dinner
+Mushroom Risotto,400,milk,12,5,"vegetarian,high_fiber",dinner
+Grilled Shrimp,300,seafood,30,1,"non_vegetarian,high_protein",dinner
+Pasta with Chicken,500,gluten,35,5,"non_vegetarian,high_protein",dinner
+Apple,80,none,0,3,"vegetarian",snack
+Mixed Nuts,200,peanuts,6,4,"vegetarian,high_protein",snack
+Protein Smoothie,250,milk,22,2,"vegetarian,high_protein",snack
+Carrot Sticks with Hummus,150,none,5,5,"vegan,high_fiber",snack
+Boiled Eggs,140,eggs,12,0,"vegetarian,high_protein",snack
+Greek Yogurt,100,milk,10,0,"vegetarian,high_protein",snack
+Beef Jerky,200,none,30,0,"non_vegetarian,high_protein",snack
+Cottage Cheese,180,milk,15,1,"vegetarian,high_protein",snack
+Banana,100,none,1,3,"vegan,high_fiber",snack
+Orange,80,none,1,3,"vegan,high_fiber",snack
+Granola Bar,150,nuts,5,3,"vegetarian,high_fiber",snack
